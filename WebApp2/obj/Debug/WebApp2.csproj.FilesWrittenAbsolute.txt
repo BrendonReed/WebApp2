@@ -1,0 +1,12 @@
+/Users/brendon/Development/WebApp2/WebApp2/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/brendon/Development/WebApp2/WebApp2/bin/WebApp2.dll.mdb
+/Users/brendon/Development/WebApp2/WebApp2/bin/WebApp2.dll
+/Users/brendon/Development/WebApp2/WebApp2/obj/Debug/WebApp2.dll
+/Users/brendon/Development/WebApp2/WebApp2/obj/Debug/WebApp2.dll.mdb
+/Users/brendon/Development/WebApp2/WebApp2/bin/Microsoft.Web.Infrastructure.dll
+/Users/brendon/Development/WebApp2/WebApp2/bin/System.Web.Razor.dll
+/Users/brendon/Development/WebApp2/WebApp2/bin/System.Web.Helpers.dll
+/Users/brendon/Development/WebApp2/WebApp2/bin/System.Web.WebPages.dll
+/Users/brendon/Development/WebApp2/WebApp2/bin/System.Web.WebPages.Deployment.dll
+/Users/brendon/Development/WebApp2/WebApp2/bin/System.Web.WebPages.Razor.dll
+/Users/brendon/Development/WebApp2/WebApp2/bin/System.Web.Mvc.dll
