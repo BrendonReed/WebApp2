@@ -7,7 +7,7 @@ using System.Web.Mvc.Ajax;
 
 namespace WebApp2.Controllers
 {
-	public class HomeController : Controller
+	public class HomeController2 : Controller
 	{
 		public ActionResult Index ()
 		{

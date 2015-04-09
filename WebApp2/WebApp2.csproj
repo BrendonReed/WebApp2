@@ -69,7 +69,7 @@
     <Folder Include="Scripts\" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\HomeController2.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Web.config" />
