@@ -1,8 +1,11 @@
 ﻿<Properties StartupItem="WebApp2/WebApp2.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp2/Controllers/HomeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp2.Core/Global.fs">
     <Files>
       <File FileName="WebApp2/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="WebApp2/Web.config" Line="38" Column="1" />
+      <File FileName="WebApp2/Views/Web.config" Line="34" Column="1" />
+      <File FileName="WebApp2.Core/Global.fs" Line="3" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

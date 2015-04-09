@@ -70,9 +70,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Global.asax.cs">
-      <DependentUpon>Global.asax</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Web.config" />
@@ -94,4 +91,10 @@
       </Properties>
     </MonoDevelop>
   </ProjectExtensions>
+  <ItemGroup>
+    <ProjectReference Include="..\WebApp2.Core\WebApp2.Core.fsproj">
+      <Project>{704DA1E8-FC81-4C08-93D4-DC648AEAECAA}</Project>
+      <Name>WebApp2.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>
