@@ -1,0 +1,14 @@
+/Users/brendon/Development/WebApp2/WebApp2.Core/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/Users/brendon/Development/WebApp2/WebApp2.Core/bin/Release/WebApp2.Core.dll.mdb
+/Users/brendon/Development/WebApp2/WebApp2.Core/bin/Release/WebApp2.Core.dll
+/Users/brendon/Development/WebApp2/WebApp2.Core/obj/Release/WebApp2.Core.dll
+/Users/brendon/Development/WebApp2/WebApp2.Core/obj/Release/WebApp2.Core.dll.mdb
+/Users/brendon/Development/WebApp2/WebApp2.Core/bin/Release/Microsoft.Web.Infrastructure.dll
+/Users/brendon/Development/WebApp2/WebApp2.Core/bin/Release/System.Web.Razor.dll
+/Users/brendon/Development/WebApp2/WebApp2.Core/bin/Release/System.Web.Helpers.dll
+/Users/brendon/Development/WebApp2/WebApp2.Core/bin/Release/System.Web.WebPages.dll
+/Users/brendon/Development/WebApp2/WebApp2.Core/bin/Release/System.Web.WebPages.Deployment.dll
+/Users/brendon/Development/WebApp2/WebApp2.Core/bin/Release/System.Web.WebPages.Razor.dll
+/Users/brendon/Development/WebApp2/WebApp2.Core/bin/Release/System.Web.Mvc.dll
+/Users/brendon/Development/WebApp2/WebApp2.Core/bin/Release/Mono.Security.dll
+/Users/brendon/Development/WebApp2/WebApp2.Core/bin/Release/Npgsql.dll

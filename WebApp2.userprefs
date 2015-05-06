@@ -1,11 +1,16 @@
 ﻿<Properties StartupItem="WebApp2/WebApp2.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp2.Core/Global.fs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp2.Core/DataAccess.fs">
     <Files>
-      <File FileName="WebApp2/Controllers/HomeController.cs" Line="1" Column="1" />
-      <File FileName="WebApp2/Web.config" Line="38" Column="1" />
-      <File FileName="WebApp2/Views/Web.config" Line="34" Column="1" />
-      <File FileName="WebApp2.Core/Global.fs" Line="3" Column="23" />
+      <File FileName="WebApp2/Controllers/HomeController2.cs" Line="1" Column="1" />
+      <File FileName="WebApp2/Web.config" Line="1" Column="1" />
+      <File FileName="WebApp2/Views/Web.config" Line="1" Column="1" />
+      <File FileName="WebApp2.Core/Global.fs" Line="1" Column="1" />
+      <File FileName="WebApp2/Global.asax" Line="1" Column="1" />
+      <File FileName="WebApp2.Core/HomeController.fs" Line="28" Column="7" />
+      <File FileName="WebApp2/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="WebApp2.Core/DataAccess.fs" Line="3" Column="31" />
+      <File FileName="WebApp2.Core/Component1.fs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

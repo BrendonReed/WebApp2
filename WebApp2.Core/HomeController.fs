@@ -5,6 +5,7 @@ namespace WebApp2.Core.Controllers
 open System
 open System.Web.Mvc
 open System.Reflection
+open WebApp2.Core.DataAccess
 
 [<HandleError>]
 type HomeController() =
@@ -22,8 +23,13 @@ type HomeController() =
     x.ViewData.["Runtime"] <- match isMono with 
                                 | true -> "Mono"
                                 | false -> ".NET"
+    //let dbVersion = checkConnection()
+    //let first = Seq.head dbVersion
+    //x.ViewData.["DbVersion"] <-  first.version
 
     x.View()
 
   member x.About() =
     x.View() 
+
+
