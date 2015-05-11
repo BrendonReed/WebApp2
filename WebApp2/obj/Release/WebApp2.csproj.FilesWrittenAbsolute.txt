@@ -10,6 +10,7 @@
 /Users/brendon/Development/WebApp2/WebApp2/bin/System.Web.WebPages.Deployment.dll
 /Users/brendon/Development/WebApp2/WebApp2/bin/System.Web.WebPages.Razor.dll
 /Users/brendon/Development/WebApp2/WebApp2/bin/System.Web.Mvc.dll
+/Users/brendon/Development/WebApp2/WebApp2/bin/FSharp.Core.dll
 /Users/brendon/Development/WebApp2/WebApp2/bin/WebApp2.Core.dll
 /Users/brendon/Development/WebApp2/WebApp2/bin/WebApp2.Core.dll.mdb
 /Users/brendon/Development/WebApp2/WebApp2/bin/Npgsql.dll
