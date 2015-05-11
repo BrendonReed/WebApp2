@@ -23,9 +23,9 @@ type HomeController() =
     x.ViewData.["Runtime"] <- match isMono with 
                                 | true -> "Mono"
                                 | false -> ".NET"
-    //let dbVersion = checkConnection()
-    //let first = Seq.head dbVersion
-    //x.ViewData.["DbVersion"] <-  first.version
+    let dbVersion = checkConnection()
+    let first = Seq.head dbVersion
+    x.ViewData.["DbVersion"] <-  first.version
 
     x.View()
 
